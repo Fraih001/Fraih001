@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [the Dispatch: An Algorithm Competition Site](https://github.com/FSA-Grads-Project/competition-site)
 
-- 🌱 I’m currently learning **Elixir, LiveView, Phoenix**
+- 🌱 I’m currently learning **Phoenix LiveView 0.18.18**
 
 - 👯 I’m looking to collaborate on [testBrew: An App for Developers to Practice Unit Testing](https://github.com/testbrew/testbrew)
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@fraiha26](https://medium.com/@fraiha26)
 
-- 💬 Ask me about **React, Git, Node.js, JavaScript, TypeScript, Express.js, PostgreSQL**
+- 💬 Ask me about **Elixir, Phoenix, LiveView, React, Git, Node.js, JavaScript, TypeScript, Express.js, PostgreSQL**
 
 - 📫 How to reach me **fraiha26@gmail.com**
 
