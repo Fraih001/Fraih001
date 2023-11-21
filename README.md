@@ -1,30 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex Fraiha</h1>
 <h3 align="center">A former teacher turned software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fraih001&label=Profile%20views&color=0e75b6&style=flat" alt="fraih001" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fraih001" alt="fraih001" /></a> </p>
-
-- 🔭 I’m currently working on [the Dispatch: An Algorithm Competition Site](https://github.com/FSA-Grads-Project/competition-site)
-
-- 🌱 I’m currently learning **Phoenix LiveView 0.18.18**
-
-- 👯 I’m looking to collaborate on [testBrew: An App for Developers to Practice Unit Testing](https://github.com/testbrew/testbrew)
-
-- 🤝 I’m looking for help with [testBrew: An App for Developers to Practice Unit Testing](https://github.com/testbrew/testbrew)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Fraih001](https://github.com/Fraih001)
-
-- 📝 I regularly write articles on [https://medium.com/@fraiha26](https://medium.com/@fraiha26)
-
-- 💬 Ask me about **Elixir, Phoenix, LiveView, React, Git, Node.js, JavaScript, TypeScript, Express.js, PostgreSQL**
-
-- 📫 How to reach me **fraiha26@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/alexfraiha/](https://www.linkedin.com/in/alexfraiha/)
-
-- ⚡ Fun fact **I've volunteered at Walkabout Education for over 10 years!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexfraiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexfraiha" height="30" width="40" /></a>
